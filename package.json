@@ -1,0 +1,16 @@
+{
+  "name": "inmemorydb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "\"Pranay Battu\"",
+  "license": "ISC",
+  "dependencies": {
+    "clone": "^2.1.2",
+    "nodemon": "^2.0.9"
+  }
+}
